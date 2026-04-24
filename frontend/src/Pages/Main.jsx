@@ -27,4 +27,4 @@ const Mainpage = () => {
   );
 };
 
-export default MainContent;
+export default Mainpage;
